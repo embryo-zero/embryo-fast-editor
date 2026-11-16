@@ -1,3 +1,10 @@
+<!-- embryo-brand -->
+# Embryo Fast Editor
+
+**Embryo Fast Editor** is Embryo-Zero's fork of [lapce](https://github.com/lapce/lapce), made by Embryo Zero Backyard Data Center Corporation. Our changes are on the `embryo` branch; see [EMBRYO.md](EMBRYO.md), [LEGAL.md](LEGAL.md) and [CHANGES-EMBRYO.md](CHANGES-EMBRYO.md). The original project's README follows unchanged, with its authors' credits.
+
+---
+
 <h1 align="center">
   <a href="https://lapce.dev" target="_blank">
   <img src="extra/images/logo.png" width=200 height=200/><br>
